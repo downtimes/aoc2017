@@ -1,0 +1,14 @@
+[[package]]
+name = "day14"
+version = "0.1.0"
+dependencies = [
+ "disjoint-set 0.0.2 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "disjoint-set"
+version = "0.0.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum disjoint-set 0.0.2 (registry+https://github.com/rust-lang/crates.io-index)" = "d102f1a462fdcdddce88d6d46c06c074a2d2749b262230333726b06c52bb7585"
